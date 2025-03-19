@@ -1,0 +1,18 @@
+/* 알림창만들기 */
+
+/* .alert-box {
+
+  background: skyblue;
+  padding: 20px;
+  color: #000;
+  border-radius: 5px;
+  display: none;
+} */
+
+/* 상단바제작 */
+.list-group {
+  display: none;
+}
+.show {
+  display: block;
+}
